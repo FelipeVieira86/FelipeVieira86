@@ -1,9 +1,10 @@
 <p>
   <a href="https://github.com/FelipeVieira86" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-  </a> 
+    <img src="https://simpleicons.org/icons/github.svg" width="48px" height="48px">
+  </a>
+  
   <a href="https://www.linkedin.com/in/felipevieira1986/" target="_blank">
-    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+    <img src="https://simpleicons.org/icons/linkedin.svg" width="48px" height="48px">
   </a>
 </p>
 
