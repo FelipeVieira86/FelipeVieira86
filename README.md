@@ -16,15 +16,15 @@ Atualmente sou estudante de desenvolvimento de software da TRYBE, uma escola que
 **Competências:**
 
 <p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <code><img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="22"/></code>
+  <code><img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="22"/></code>
+  <code><img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="22"/></code>
+  <code><img src="https://simpleicons.org/icons/react.svg" alt="react" height="22"/></code>
+  <code><img src="https://simpleicons.org/icons/redux.svg" alt="redux" height="22"/></code>
 </p>
 <p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <code><img src="https://simpleicons.org/icons/linux.svg" alt="linux" height="22" /></code>
+  <code><img src="https://simpleicons.org/icons/git.svg" alt="git" height="22"/></code>
 </p>
 
 ![FelieVieira86's status](https://github-readme-stats.vercel.app/api?username=FelipeVieira86&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)
