@@ -7,10 +7,9 @@
   </a>
 </p>
 
-### Olá 👋
 **Sobre mim:**
 
-Meu nome é **Felipe Vieira**, sou de Florianópolis e após trabalhar como profissional autônomo no ramo da confeitaria nos últimos anos, encontrei na programação minha nova paixão e tenho dedicado meu tempo em aprimorar meus conhecimentos para iniciar uma carreira na área desde então.
+Ola, meu nome é **Felipe Vieira**, sou de Florianópolis e após trabalhar como profissional autônomo no ramo da confeitaria nos últimos anos, encontrei na programação minha nova paixão e tenho dedicado meu tempo em aprimorar meus conhecimentos para iniciar uma carreira na área desde então.
 
 Atualmente sou estudante de desenvolvimento de software da TRYBE, uma escola que em sua metodologia de ensino provoca em seus alunos uma experiência real do dia a dia de trabalho de um desenvolvedor de software , com muito trabalho em equipe e mão na massa. 
 
@@ -20,7 +19,6 @@ Atualmente sou estudante de desenvolvimento de software da TRYBE, uma escola que
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </p>
