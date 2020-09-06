@@ -15,6 +15,7 @@ Meu nome é **Felipe Vieira**, sou de Florianópolis e após trabalhar como prof
 Atualmente sou estudante de desenvolvimento de software da TRYBE, uma escola que em sua metodologia de ensino provoca em seus alunos uma experiência real do dia a dia de trabalho de um desenvolvedor de software , com muito trabalho em equipe e mão na massa. 
 
 **Competências:**
+
 <p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
